@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Arslan Javed
 
-![Banner](https://via.placeholder.com/1200x400?text=Welcome+to+Arslan's+GitHub+Profile!)
+![Banner]([https://via.placeholder.com/1200x400?text=Welcome+to+Arslan's+GitHub+Profile!](https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966))
 
 I'm a passionate **Full Stack Developer** and **Designer** who loves turning ideas into reality. Whether it's building seamless back-end systems or creating stunning, user-friendly interfaces, I'm all in! Here’s a bit about me and my work:
 
